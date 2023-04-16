@@ -1,5 +1,5 @@
 # scisea
-project for buildspace n&amp;w s3 
+project for buildspace n&amp;w s3<br />
 scisea is committed to building a decentralized scientific research community on the Ether Layer 2, leading to a more decentralized science.
 
 # Our Mission
