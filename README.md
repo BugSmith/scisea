@@ -8,4 +8,8 @@ We have created a decentralized science community platform that allows scientist
 
 # Progress
 week1 update: 
-This week, as I was busy with my studies, I didn't have much time to devote to specific development, so I created a demo of scisea's homepage website and registered a social account for scisea at the same time.
+This week, as I was busy with my studies, I didn't have much time to devote to specific development, so I created a demo of scisea's homepage website and registered a twitter account for scisea at the same time.
+
+# Contact us
+Twitter: @Sci_sea
+
