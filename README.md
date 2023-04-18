@@ -1,3 +1,5 @@
+(Because of China's special network environment, it was forced to move to Gitee for updates)
+gitee url:https://gitee.com/bugsmith/scisea
 # scisea
 project for buildspace n&amp;w s3<br />
 scisea is committed to building a decentralized scientific research community on the Ether Layer 2, leading to a more decentralized science.
