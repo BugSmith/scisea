@@ -1,4 +1,4 @@
-(Because of China's special network environment, it was forced to move to Gitee for updates)
+(Because of China's special network environment, it was forced to move to Gitee for updates)<br />
 gitee url:https://gitee.com/bugsmith/scisea
 # scisea
 project for buildspace n&amp;w s3<br />
